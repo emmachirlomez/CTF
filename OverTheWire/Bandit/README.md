@@ -2,6 +2,14 @@
 
 Here you will find the solutions to all the different levels 0 &#8594; 34. 
 
+### How to 
+
+The levels are listed as `x` &#8594; `x + 1`. I have created `.md` files with this kind of level under the name `Level_x+1.md`.
+
+When you want to connect with `ssh` you need to use the following command:
+ * `username:` ssh bandit.labs.overthewire.org -p 2220 -l bandit`x`
+ * `password:` password found in file `Level_x.md`
+
 I have solved the following levels until now:
 
 | Levels        | Levels        | Levels        | Levels        | Levels        |
