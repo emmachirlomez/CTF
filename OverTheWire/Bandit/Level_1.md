@@ -7,7 +7,7 @@
 `password:` bandit0
 
 - *Solution*: 
-   * Use command `ls` to view the files in the working directory and 
+   * Use command `ls` to view the files in the working directory
    * The password can be found by using the command `cat readme`. 
 
 - `Level 2:` boJ9jbbUNNfktd78OOpsqOltutMc3MY1
