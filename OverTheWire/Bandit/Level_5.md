@@ -12,4 +12,4 @@
     * -file07 is the only ASCII one
     * Just `cat -file07`
 
-- `Level 5:` koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+- `Level 6:` koReBOKuIDDepwhWk7jZC0RTdopnAYKh
