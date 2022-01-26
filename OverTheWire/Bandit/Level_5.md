@@ -8,9 +8,9 @@
 
 - *Solution*:
     * Use command `ls` to view the files in the working directory
-    * The file is situated in the only human readable file, so use command `file ./*` to each of the files' type
+    * The file is situated in the only human readable file, so use command `file ./*` to check each of the files' type
     * -file07 is the only ASCII one
-    * Just `cat -file07`
+    * Just `cat ./-file07`
 
 - `Level 6:` koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
